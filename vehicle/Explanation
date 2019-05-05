@@ -1,0 +1,6 @@
+2.It is decorator design pattern.
+
+
+a) It can be done by implementing the Vehicle interface in seperate classes for Car and Plane.(in folder Vehicle there is a solution given).
+
+b)A different design pattern (Abstract Factory pattern) is given in the new_design_apttern folder inside Vehicle folder.

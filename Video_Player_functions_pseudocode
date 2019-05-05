@@ -1,0 +1,41 @@
+	boolean currentlyPlaying=false
+	
+
+1.Play()
+	
+	if(currentlyPlaying==true) then -> {
+	//pause the media
+	//change the icon to paused
+	
+}
+	else{
+	//start or resume the video
+		currentlyPlaying=true
+	}
+
+
+2.Forward()
+	int seekTo
+	int total_length=100
+	if (seekto<=total_length) {
+	//set the media to the seeking position and Play
+	}else {
+	seekto=total_length
+	// 
+}
+
+3.Rewind()
+	int seekTo
+	int start=0
+	if (seekto>=start) {
+	//set the media to the seeking position and Play
+	}else {
+	seekto=start
+	// 
+}
+	
+
+
+
+	
+	
