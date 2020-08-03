@@ -1,5 +1,5 @@
 package com.test.vehicle;
-
+//given interface
 public interface Vehicle {
 	int set_num_of_wheels();
 	

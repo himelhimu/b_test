@@ -6,7 +6,7 @@ import android.net.Uri
 import android.widget.MediaController
 import android.widget.VideoView
 
-
+//An android activity that plays a video file from res/raw folder , it's just a very basic represntation
 
 class MainActivity : AppCompatActivity() {
 

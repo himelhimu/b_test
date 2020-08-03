@@ -21,7 +21,8 @@ public class Anagram {
 				
 			
 	}
-	
+    
+    //checking if words are anagram
     
     public static boolean isWordsAnagram(String word1, String word2) {
         boolean isAnagram = false;

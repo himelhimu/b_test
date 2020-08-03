@@ -1,0 +1,10 @@
+For the video player an interface with beow specs can be used
+
+interface VideoPlayerControls{
+    boolean isPlayeing();
+    void stop();
+    void play();
+    void resume();
+    void rewind;
+    //etc others
+}

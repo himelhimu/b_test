@@ -1,5 +1,5 @@
 package com.test.vehicle;
-
+//plane class using given interface
 public class Plane implements Vehicle{
 
 	@Override
